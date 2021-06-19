@@ -1,0 +1,15 @@
+{
+  "name": "intro_package",
+  "version": "1.0.0",
+  "description": "this is demo packsge installed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanka Nikam",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "lodash": "^4.17.21"
+  }
+}
